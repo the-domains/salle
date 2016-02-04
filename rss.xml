@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Salle]]></title>
+        <description><![CDATA[Salle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Feb 2016 17:25:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sail in Caribbean December 2015 with Swan 65  S/Y Vahine. ]]></title>
+            <description><![CDATA[<article><h1>Sail in Caribbean December 2015 with Swan 65  S/Y Vahine. </h1><p>This was one of the best holidays ever. I have dreamt sailing in Caribbean since I was there the last time, some 25 years ago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bfa2a6b378c676e85de145f49127869efb82545.jpg"></article>]]></description>
+            <link>undefinedsail-in-caribbean-december-2015-with-swan-65-sy-vahine/index.html</link>
+            <guid isPermaLink="false">d5068b73-e288-4fa0-b75d-e1a21028f012</guid>
+            <pubDate>Thu, 04 Feb 2016 17:21:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
