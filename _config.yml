@@ -1,7 +1,7 @@
-name: Salle
+name: Photographer Salle
 favicon: null
 layout_spectrum: 0.18052692292258143
-typography_spectrum: 0.9380905400030315
+typography_spectrum: 0.74022
 title: "\"Use a picture. It's worth a thousand words.\""
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#3f5f8e'
+    - '#fffffd'
+    - '#7a8dab'
+    - '#2d2c27'
+    - '#d7d8dc'
   brandStrength: 0.5831383226905018
   lightness: 0.793907706392929
   saturation: 0.08880953001789749
