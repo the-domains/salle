@@ -1,0 +1,28 @@
+name: Salle
+favicon: null
+layout_spectrum: 0.18052692292258143
+typography_spectrum: 0.9380905400030315
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5831383226905018
+  lightness: 0.793907706392929
+  saturation: 0.08880953001789749
+  rhythmicContrast: 0.9761922038160264
+purpose: []
