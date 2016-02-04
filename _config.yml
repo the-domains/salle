@@ -2,6 +2,7 @@ name: Salle
 favicon: null
 layout_spectrum: 0.18052692292258143
 typography_spectrum: 0.9380905400030315
+title: "\"Use a picture. It's worth a thousand words.\""
 cta:
   domain: null
   bucket: null
