@@ -1,4 +1,4 @@
-name: Photographer Salle
+name: Salle
 favicon: null
 layout_spectrum: 0.18052692292258143
 typography_spectrum: 0.74022
@@ -22,7 +22,7 @@ color:
     - '#7a8dab'
     - '#2d2c27'
     - '#d7d8dc'
-  brandStrength: 0.5831383226905018
+  brandStrength: 0
   lightness: 0.793907706392929
   saturation: 0.08880953001789749
   rhythmicContrast: 0.25
